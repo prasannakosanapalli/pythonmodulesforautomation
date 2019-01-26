@@ -1,0 +1,426 @@
+                      DEVOPS INTERVIEW QUESTIONS
+•	Webjet 
+•	Tell me about yourself?
+•	How to build artifacts in jenkem?
+•	How to install plugin without internet?
+•	Have you confuse slaves?
+•	Are you confuses mavell, Jfs, Git, Java…etc from in Jenkins?
+•	Hoe we can do?
+•	What are the issues you are facing in Jenkins?
+•	How to get the outside files inside my container?
+•	What is pipeline? Are you involved to develop pipeline script?
+•	Are you develop shell script? For what purpose you are write shell script?
+•	Why pipeline we are using?
+•	Are you involve in a mavin script?
+•	Good you have any questions madhu?
+•	QUESTIONS:
+•	Are you using any configuration management tool?
+•	for which platform are you looking devops engineer?
+------------------------------------------------------------------------------------------
+                                                 Ericssor
+                                               TELEFONIC
+1.tell me about yourself?
+2.what are your daily activity as a develop engineer?
+3.what are roles and responsibilities?
+4.how to set environment variables in jenkim?
+5.what is git stash?
+6.what is dockes why you are using dockes?
+7.how do you tell the develops particular contains version is used in an  eur and production euv?
+8.print statement in groovy?
+9.how to declare a variable in shell script?
+10.why you are using groovy script rather than shell script?
+11.what is awk command in tinux?
+12.how to write work flow in jenkim?
+13.what is build flow plugin? Have you used ever?
+14.what is junit? What you do with junit?
+15.which version you are used in groovy?
+16.what is the purpose of build pipeline plugin?
+17.good madhu you have any questions from your end?
+18. for which platform you are looking on a devopes engineer?
+----------------------------------------------------------------------------
+                                         Telephonic
+                            Holiday-1a-Telephonic
+1.What is NRPC? What it does?
+2.What are the different status in Nagios concole?
+3.where will you use nagqos? What are all thing we use moniton?
+4.what is chef node?
+5.what is run list in chef?
+6.where we stove cookbook? What contains in cookbooks?
+                                      
+1.what are the daily activities in your job?
+2.what type of load balances are you used?
+3.are you used HAPRORY?
+4.How to configure session in HAPRORY?
+5.how for ex we have two servers server A, server B if sever A is session is over how server B knows server A is sessions out?
+6.are you worked on memcache?
+7.how to configure HTTPS in your project? What are steps?
+8.you have any questions?
+9.how to test your project? how you test without you are  configure?
+Oottru Technologies Pvt Ltd
+1.how to attach the volumes to running Dockes container?
+2.how to upload files through ubuntu to 532?
+3exlain about dockes delivery?
+4.explain subnet?
+5explain network in dockes in detaile about host, bridge overlay? 
+6.what is AWS API?
+7.what is proxy serves in dockes?
+8.what is SSL certifial?
+9.detail in VPC?
+10.coomand for:-
+1.ngnix with network is overlay running as replicas creation with service?
+how to load balancer in dockes?
+12 how to clustering in dockes?
+13.how to backup to container volumes to 532?
+14.user data is stored in which format in jenkim?
+15.As not mentioned the nodes user defined the build trigger which is default machine to works?
+16 Dockes swarm networking explain its work?
+17.Dockes with aws(or) Azure?
+17.Dockes default part?
+18.how to change the image the Fs layer import?
+19.how to SS 1 foe Apache?
+20.how to attach ELB to 3 instances?
+21.how to upload to s3
+------------------------------------------------------------------------------------
+Nokia written test:-
+1.what is use of dockes wait?
+2.is it possible to decreses RAM size? If yes, how can you decreses without getting down time?
+3.use of git reset?
+4.other options to merge in gits?
+5.Related Maven project POM and parent POM?
+6.MAVEN architecture workflow?
+7.how can you configure the maven storage in jenkem?
+8.how do you load balance the work in dockes swarm?
+9.how to find total to file sizes in system?
+10.Related  to cut,sed,awk?
+11.manufest variables in puppet 8 Ansible?
+12.Dockes file for Tom cat with centes as root user foe post 80?
+13.command/script for execute repetation for ever 10 second command?
+14.maven version and snap shot explain?
+15.how to deleted the all unsed volumes in dockes?
+16.question related to shell scripting?
+Nokia R&D
+1.tell me about yourself with and educational qualification?
+2.do you have any idea about Dockes?
+3.why we need dockes? Explain me about Dockes?
+4.what is disadvantages of Dockes?
+5.how you will manage containers where you will deplay?
+6.how are you involved in HAPROR for load balances?
+7.what is unsible? Explain what are all the components?
+8.what is chef? Explain what are all the components?
+9.what is chef server indexing?
+10.which language are you proficient?
+11.which cloud platform any one you worked?
+12.what are all components you know in AWS?
+
+--------------------------------------------
+INFOSYS:-
+1.git base line?
+2.git conflites?
+3.about git commit, push, pull, fetch, logs?
+4About dockes contains, dockes image, Tom cat, aws? 
+5.chef architecture?
+6.chef scale?
+                                   ---------------------------------------
+                                                   HAPPAY
+1.what is rolling deployment?
+2.hoe to create pen file in AWS?
+3.if we have 2 developers how can you will a particular instance acess to both of them?
+4.how do you overcome with multi availability Zone in disaster time?
+5.have you worked with multi RDS?
+6.what are the services you worked on AWS?
+7.how to deploy a service in containers?
+8.how can you deploy the packages in servers?
+9.how to fetch logs?if we have more logs it will take more storage then how you can overcome it 
+                                 Log present in var->directory
+10.how you will monitor the user logs
+                                  Acct,psacct->tools(user login)
+------------------------------------------------------------------------------
+                                       Yathra.com
+1.tell me about yourself?
+2.what is dockes what is advantages?
+3.how can connect the two containers? For example mongodb and apache server I have I need to communicate both containers?
+4.how elastic search will works?
+5.what is kibana and explain how to intergrate with lanticsue?
+6.how you dockes?
+How you will come to conclusion if I give new technology?
+7.what are the new technology’s you learned recently?
+8.how to build to dockes image?
+9.what is dockes volumes and write the command?
+10.how to connect SSH agent?
+11.what are the linux servers user used?
+12.netptat command?
+13.command exec for runtime environment variable for chuch?
+14.command inspect?
+Round:-
+1.tell about yourself?
+2.what are J2ee technologies you know?
+3.what is difference between REIT and SOAP?
+4.how we can add the external space without losing the data in dastic search? In possible ways?
+5.difference between uirtualiragion and dockes a etc linux admit, network, CPU, RAM, load balance?
+------------------------------------------------------------
+                                   Capgemini
+1.how do you connect one SVN server to another SVN server?
+2.what is tag?
+3.how to create repository?
+4.use of creating rapo?
+5what is merging process?
+6.advantages of git?
+7.merge SVN to git?
+8.build the code using maven?
+9.how do you migreate jenlsins from one machine to another?
+10.advantages of maven?
+11.difference between dependence and plugin?
+12.why maven plugins are used?
+13.how to install maven manually?
+14.how do change code java file to aws?
+15.create project structuring maven?
+----------------------------------------------------------------------
+                                    SRS business solutions
+First round:-
+1.tell about yourself?
+2.write a architecture of Nagios ?
+3.which configuration management to one are you used?
+4.why docks vs virtualization?
+5.write a play boov for nginx?
+6.how to start the nginx?
+7.wher we are configured nginx configuration?
+8.what is inventoy host file how you differentiate definite host server?
+9.how to configure dynamic inventory file?
+10.how to configure dynamic inventory file?
+11.what is classic search and leibanue how its works ?
+12.what is app dynamics?
+------------------------------------------------------------
+                          			TELEPHONIC
+					ADP-HYD
+1.tell me about day to day activities in your job?
+2.where your work will start as a develop engineer?
+3.are you used any load balances ?
+4.how many marks you can give out of 10 in linux?
+5.which type of shell script you write?
+6.how to configure dev/test/production env?
+7.merg conficts or built work folw plugin?
+8.types of issues you faced?
+9.do you know oracle?
+10.what is process of your product will be released your followed?
+11.which type of cloud are you used?
+12.right know are you in development team are build and release team?
+13.wher you are developed your application?
+14.what are the steps in pipe line storage are involved?
+15.are you comfort shell script?
+16.are you involved to write recepis ?
+17.how to create ec2 insfance through chef?
+Second round.
+1.tell me about your self?
+2.can you please help to write Jenkins pipeline?
+3.explain me end to end c1/CD pipeline steps?
+4.explain what is artifered repository ?
+5.explain what is elastic search, libanor, logstash with articture?
+6.what are the plugins are you install?
+7.how to change the both changes in  Jenkins? If I do what will happen where we will change environment variable or plugin for this?
+8.what are the configuration for sonouguxbc where the source code in sonouquxbc how you hide the result from sonousubc?
+9.have you used chef? And you write any time consitive?
+10.what are all play boovs you write?
+11.what is dockes?
+12.how we can run multiple container at abv?
+13.what is dockes compose?
+14.ActiveMQ.
+15. active directory and FS
+-------------------------------------------------------------------------
+					Delloict
+Second round:-
+1.tell me about yourself?
+2.what are the tools are you used in c1/cd?
+3.jerkins work flow use pipeline?
+4.which script are used for pipieline?
+5.what is upc what are the use?
+6.how you build dockes build and where you where you pushed the dockes image?
+7.what is RDS in aws?
+8.what is s3 in aws? Are you stored dockes instances inside s3?
+9.what is maven? Which life yc/c are you used for build and why?
+10.what is git fetch avt pull?
+11.what is git rebace?
+12.which cm tool are you used? How to combine inside jenkim?
+13.what are the plugin are you used?
+14.how to create server group in aws?
+15.what is roles in aws?
+16.what is difference between uatha/activema?
+17.why we use active ma?
+-------------------------------------------------------------------------
+						verizonvTELEPHONIC
+First round:-
+1.tell me about yourself?
+2.how do you combine cluster? what are all components you need to install? 
+3.what are marathon? Md messos?
+4.how to mount a file?
+5.how we can check a mount file?
+6.how we can check a file size in linux? 
+7.if I have server log file I want to get the last 2days of status codes in that file ?
+8.if I have server in runner in 12.16.7.12 ip adh how you access this same?
+9.i don’t have browser how you will access ?
+10.what are the server  you are used?
+11.how you transfer a file from one machine to another machine?
+12.what is FTP have you used anywhere?
+13.what is dockes why where runner the dockes containes?
+Second round—
+1.	Explain about yourself?
+2.	How are the steps are you involved for ci/cd?
+3.	Where you are deploy your applicate?
+4.	What are the components used in aws?
+5.	As a develops are engineer what are roles in your current project?
+6.	What is different in mysil and mongobd?
+7.	Which configuration management tool are you used? Explain for what purpose you used?
+8.	How you check the RAM usage?
+9.	How you check the CPU usage?
+10.	How to check the disk usage?
+11.Who will take release product in your project frleas manages will realease the project and you will involve in this?
+------------------------------------------------------
+					zappayTELEPHONIC
+1.	Tell about yourself?
+2.	What is the divers what tell me the advantages?
+3.	What are all the components are you used in dockes?
+4.	Are you worked in dockes  compose and dockes swarm?
+5.	What is availabilities and meson?
+6.	Birth misson and what are monitarize tools are used for altutir?
+7.	What are all the metnic user cloud watch?
+8.	Which kafher version are used? Cluster size are you worked?
+9.	Are you used to  2 montun for  high availabilities?
+10.How much size of yours cluster?
+     11.are you in configure  cluster setup?
+     12.which load balance are you used in a clostu?
+     13.why nginx as a load balances you decided
+     14.how to install a software inside a docues?
+     15.what are the software install in dockes as of whom?
+     16.what is the private ip and public ip?
+     17.how can access the system with private ip?
+     18.how to connect the instance without ip and username             and password?
+     19.how you connect server though ssh?
+What is spot instances,ondemand instances,reserved instances
+Why are you looking for job change?
+What is the base image used in docker file??
+Widas
+1.tell me about your self?
+2.what are the commands are used in inside dockes ile ?
+3.what is difference CMD and entry point?
+4.what is difference add and copy?
+5.can you ouemid the CMD value inside container runnir time?
+6.how can I currict the shoued data file inside container?
+7.how you used api sent for request to maythorn?
+8.what are software you installed inside dockes?
+9.which configuration management tools have you used?
+10.how to give the port to container?
+11.have you used networks in dockes you worked?
+12.have you worked any dockes swarm?
+13.which version of kibana have you used?
+14.are you used for private  dockes stgisery?
+                          CLEO
+
+MANAGER ROUND[1st round]
+1.tell me about your self?
+2.why are you looks job change?
+3.how do you know clco ?
+4.are you good in java programming? What are the java technologies you know?
+5.what are the current roles and responsibilities in your current project?
+6.wher you are involved in this project?
+7.are you familiar with shelf script and aws?
+8.how you maintain the cluster with out zero down time and error failure?
+9.what is your current salary?
+			Technical
+2nd round
+1.explain about yourself?
+2.what your day to day activites in your current project?
+3.what are the steps you involved in ci/cd/pipeline?
+4.can you please explain ci/cd/pipeline have you used?
+5.what are all compounds are you used in aws?
+6.what the difficult ngins and aws eid?
+7.what is HAPROXY have configure in a cluster?
+8.what the size of cluster you maintain?
+9.what is spot instance, on demand instance, resaved instance?
+10.why are you looking for job changed?
+11.what is base iluge are used in dockes file ?
+12.write the avsible playbools for git the develop file and diploy aws?
+13.which version of clastic seciet are you used?
+14.if I have 1.8 elastic search version even I integreate kibanas 5.3?
+15.how you create index in elastic search?
+16.how to creat ows instance throyse configuration management?
+17.how do you scale up of cl instance?
+18.are you involved in development team? If you are worked you did in that?
+19. which defabase are you used?
+
+
+------------------------------------------------------------------------------          
+--------------------------------------------------------------------------------
+	verizon
+
+Second round version: -
+1.	Tell about your self and stoles used responsibility in your correct project?
+2.	2.hoe you check marathon hath status there are scripts what are those?
+3.	What are all configuration steps in marathon ?
+4.	What the cluster size you would on?
+15.what is difference between nginx and apache?
+16.are you involved in shelf script?
+17.what is aws and how you used?
+18.what is sep command and explain full command?
+19.how to use for remote system?
+20.have you worked on volumes in dockes? if yes how can we write?
+21.what is container port, host port and service port in dockes?
+22.what is difference between cmd and tutryponf?
+23.how you maintain bring dockes?
+24.how you monitor dockes container?
+25.what are the monitor tools are you used?
+26.how you copy the host soltum to container?
+27.how you copy the file with out runnier which path you are giving for copy the file?
+28.how you configure cornjob in linux machine?
+29.what is the fr?
+44.how do you scalliy the interfance?
+45.if af node is not worgir what are all the possibilities are you check?
+46.what is context level  check in asw?
+47.what are the scriptr languages are you familiar?
+48.how do you know the size of the clostu want to are for the requirement?
+49.how to setup DNS?
+----------------------------------------------------------
+					Oracle
+First round:-
+1.	Tell me about yourself and roles and responsibilities in your organization?
+2.	What type of instance have you created in aws?
+3.	How you are created instances in aws what are all the steps?
+4.	Have you configure upc? And how?
+5.	Where you are storir datata in aws?
+6.	What are the types of storages in s3?
+7.	What is chef what are the components are these?
+8.	Which language is used to write recepies?
+What is cookbook? 30.which file is execute the contbook?
+31.with out chef server how mass I we reconsole the notebook what is the name of the compound?
+32.what in ansible how it will honour?
+33.what is the difference between chef and avsible?
+34.what is dockes explain me about dockes?
+35.how do you built the costume dockes image?
+36.have you involved to write dockes file?
+37.if I want to dockes file for install mysol server how to curite?
+38.how to funchctionir app dynamics? What are things needed to configure in app dynamics?
+39.which type of dish board have you created in app dynamics?
+40.which application performance manitory have you used?
+41.if I want to configure network loss in stlonce how to configure?
+42.if anythr change in between the loss the how you have trouble shoot?
+43.how to filite the data in splupnu have you write on customize queries for this?
+----
+9.	How many years of experience in java?
+10.	Have developed by microsuuier?
+11.	Which technology are you used in microservice?
+12.	How much you familier in linux scripting?
+13.	How can I get the firnl line and thirdly in csu file upir linux command?
+14.	What is the use of TOP command?
+15.	What sou command will do?
+16.	How to checu cpu utilization using linux command?
+17.	Where you execute git command?->git bash
+Oracle 
+Second round:
+1.	Tell me about yourself?
+2.	Draw the kibana architecture?
+3.	What is iaas, saas, paas?
+4.	If I want to get the data based on IP and firme stamp how to write the quey in kibana?
+5.	Why are you looking for job change?
+6.	Have you confirued cyent in Nagios?
+     7.Where have you used splunu, appdynomics and nays?
+      8.have you faced any issues while installer agent in                        nagior?
+9.have you used Json?
+10.which API are you used
